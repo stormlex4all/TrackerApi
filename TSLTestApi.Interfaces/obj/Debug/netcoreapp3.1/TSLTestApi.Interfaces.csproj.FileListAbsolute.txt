@@ -1,0 +1,12 @@
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\bin\Debug\netcoreapp3.1\TSLTestApi.Interfaces.deps.json
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\bin\Debug\netcoreapp3.1\TSLTestApi.Interfaces.dll
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\bin\Debug\netcoreapp3.1\TSLTestApi.Interfaces.pdb
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\bin\Debug\netcoreapp3.1\TSLTestApi.ViewModels.dll
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\bin\Debug\netcoreapp3.1\TSLTestApi.ViewModels.pdb
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\obj\Debug\netcoreapp3.1\TSLTestApi.Interfaces.csprojAssemblyReference.cache
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\obj\Debug\netcoreapp3.1\TSLTestApi.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\obj\Debug\netcoreapp3.1\TSLTestApi.Interfaces.AssemblyInfo.cs
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\obj\Debug\netcoreapp3.1\TSLTestApi.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\obj\Debug\netcoreapp3.1\TSLTestApi.Interfaces.csproj.CopyComplete
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\obj\Debug\netcoreapp3.1\TSLTestApi.Interfaces.dll
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Interfaces\obj\Debug\netcoreapp3.1\TSLTestApi.Interfaces.pdb

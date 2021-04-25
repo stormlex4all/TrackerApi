@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi" Version="5.2.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TSLTestApi.Interfaces\TSLTestApi.Interfaces.csproj" />
+    <ProjectReference Include="..\TSLTestApi.ViewModels\TSLTestApi.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

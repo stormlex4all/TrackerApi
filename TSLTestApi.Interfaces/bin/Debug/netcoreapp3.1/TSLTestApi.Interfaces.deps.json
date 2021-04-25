@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TSLTestApi.Interfaces/1.0.0": {
+        "dependencies": {
+          "TSLTestApi.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "TSLTestApi.Interfaces.dll": {}
+        }
+      },
+      "TSLTestApi.ViewModels/1.0.0": {
+        "runtime": {
+          "TSLTestApi.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TSLTestApi.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TSLTestApi.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
