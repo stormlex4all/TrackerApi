@@ -1,0 +1,9 @@
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.ViewModels\bin\Release\netcoreapp3.1\TSLTestApi.ViewModels.deps.json
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.ViewModels\bin\Release\netcoreapp3.1\TSLTestApi.ViewModels.dll
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.ViewModels\bin\Release\netcoreapp3.1\TSLTestApi.ViewModels.pdb
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.ViewModels\obj\Release\netcoreapp3.1\TSLTestApi.ViewModels.csprojAssemblyReference.cache
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.ViewModels\obj\Release\netcoreapp3.1\TSLTestApi.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.ViewModels\obj\Release\netcoreapp3.1\TSLTestApi.ViewModels.AssemblyInfo.cs
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.ViewModels\obj\Release\netcoreapp3.1\TSLTestApi.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.ViewModels\obj\Release\netcoreapp3.1\TSLTestApi.ViewModels.dll
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.ViewModels\obj\Release\netcoreapp3.1\TSLTestApi.ViewModels.pdb

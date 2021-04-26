@@ -1,0 +1,14 @@
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\bin\Release\netcoreapp3.1\TSLTestApi.Repositories.deps.json
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\bin\Release\netcoreapp3.1\TSLTestApi.Repositories.dll
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\bin\Release\netcoreapp3.1\TSLTestApi.Repositories.pdb
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\bin\Release\netcoreapp3.1\TSLTestApi.Interfaces.dll
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\bin\Release\netcoreapp3.1\TSLTestApi.ViewModels.dll
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\bin\Release\netcoreapp3.1\TSLTestApi.Interfaces.pdb
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\bin\Release\netcoreapp3.1\TSLTestApi.ViewModels.pdb
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\obj\Release\netcoreapp3.1\TSLTestApi.Repositories.csprojAssemblyReference.cache
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\obj\Release\netcoreapp3.1\TSLTestApi.Repositories.AssemblyInfoInputs.cache
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\obj\Release\netcoreapp3.1\TSLTestApi.Repositories.AssemblyInfo.cs
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\obj\Release\netcoreapp3.1\TSLTestApi.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\obj\Release\netcoreapp3.1\TSLTestApi.Repositories.csproj.CopyComplete
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\obj\Release\netcoreapp3.1\TSLTestApi.Repositories.dll
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestApi.Repositories\obj\Release\netcoreapp3.1\TSLTestApi.Repositories.pdb
