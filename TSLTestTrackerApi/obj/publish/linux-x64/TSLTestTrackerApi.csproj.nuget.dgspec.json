@@ -1,0 +1,310 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestTrackerApi\\TSLTestTrackerApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Interfaces\\TSLTestApi.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Interfaces\\TSLTestApi.Interfaces.csproj",
+        "projectName": "TSLTestApi.Interfaces",
+        "projectPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Interfaces\\TSLTestApi.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Ifeanyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ifeanyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.ViewModels\\TSLTestApi.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.ViewModels\\TSLTestApi.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Repositories\\TSLTestApi.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Repositories\\TSLTestApi.Repositories.csproj",
+        "projectName": "TSLTestApi.Repositories",
+        "projectPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Repositories\\TSLTestApi.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Ifeanyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ifeanyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Interfaces\\TSLTestApi.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Interfaces\\TSLTestApi.Interfaces.csproj"
+              },
+              "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.ViewModels\\TSLTestApi.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.ViewModels\\TSLTestApi.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.ViewModels\\TSLTestApi.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.ViewModels\\TSLTestApi.ViewModels.csproj",
+        "projectName": "TSLTestApi.ViewModels",
+        "projectPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.ViewModels\\TSLTestApi.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Ifeanyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ifeanyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestTrackerApi\\TSLTestTrackerApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestTrackerApi\\TSLTestTrackerApi.csproj",
+        "projectName": "TSLTestTrackerApi",
+        "projectPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestTrackerApi\\TSLTestTrackerApi.csproj",
+        "packagesPath": "C:\\Users\\Ifeanyi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestTrackerApi\\obj\\publish\\linux-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ifeanyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Interfaces\\TSLTestApi.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Interfaces\\TSLTestApi.Interfaces.csproj"
+              },
+              "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Repositories\\TSLTestApi.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.Repositories\\TSLTestApi.Repositories.csproj"
+              },
+              "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.ViewModels\\TSLTestApi.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestApi.ViewModels\\TSLTestApi.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[3.1.7, 3.1.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.1.7, 3.1.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[3.1.7, 3.1.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
