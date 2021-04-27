@@ -30,6 +30,15 @@ namespace TSLTestApi.Repositories
                     data.current_asset_position_lat = double.Parse(data.current_asset_position_coord.Split(',')?.First());
                     data.current_asset_position_lon = double.Parse(data.current_asset_position_coord.Split(',')?.Last());
                     data.eta = (int)(data.duration_to_destination / 60);
+                    if (data.eta > 60)
+                    {
+                        var eta = data.eta / 60;
+                        data.trip_eta = eta + " hrs";
+                    }
+                    else
+                    {
+                        data.trip_eta = data.eta + " mins";
+                    }
                 }
                 return data;
             }
