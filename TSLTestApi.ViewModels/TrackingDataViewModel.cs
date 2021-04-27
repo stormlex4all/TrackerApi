@@ -41,5 +41,6 @@ namespace TSLTestApi.ViewModels
         public double destination_lon { get; set; }
         public double current_asset_position_lat { get; set; }
         public double current_asset_position_lon { get; set; }
+        public double eta { get; set; }
     }
 }

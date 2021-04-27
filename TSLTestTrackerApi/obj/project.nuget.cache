@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BlkTuVP6PshHUn5s9C5ORt4m+E7bEIydJrPpi1wix8RGCGckFNyTW2FwrT4jcymTjT6/Wqkmg4gd9P1RuU0k1g==",
+  "dgSpecHash": "uX9Hka1x5moUK5R0EQ426aXgn+oA0urbTndQnFWGBgEYYxNSVmyn4lvQZOy7NHsSAa+320eauPoNSqNFsP5Jww==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ifeanyi\\Desktop\\maps\\TSLTestTrackerApi\\TSLTestTrackerApi\\TSLTestTrackerApi.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\Ifeanyi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ifeanyi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Ifeanyi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ifeanyi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\Ifeanyi\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Ifeanyi\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",

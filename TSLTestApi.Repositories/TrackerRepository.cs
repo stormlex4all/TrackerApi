@@ -23,12 +23,13 @@ namespace TSLTestApi.Repositories
                 var data = result.FirstOrDefault();
                 if (result.Count > 0)
                 {
-                    data.start_position_lat = Double.Parse(data.start_position_coord.Split(',')?.First());
-                    data.start_position_lon = Double.Parse(data.start_position_coord.Split(',')?.Last());
-                    data.destination_lat = Double.Parse(data.destination_coord.Split(',')?.First());
-                    data.destination_lon = Double.Parse(data.destination_coord.Split(',')?.Last());
-                    data.current_asset_position_lat = Double.Parse(data.current_asset_position_coord.Split(',')?.First());
-                    data.current_asset_position_lon = Double.Parse(data.current_asset_position_coord.Split(',')?.Last());
+                    data.start_position_lat = double.Parse(data.start_position_coord.Split(',')?.First());
+                    data.start_position_lon = double.Parse(data.start_position_coord.Split(',')?.Last());
+                    data.destination_lat = double.Parse(data.destination_coord.Split(',')?.First());
+                    data.destination_lon = double.Parse(data.destination_coord.Split(',')?.Last());
+                    data.current_asset_position_lat = double.Parse(data.current_asset_position_coord.Split(',')?.First());
+                    data.current_asset_position_lon = double.Parse(data.current_asset_position_coord.Split(',')?.Last());
+                    data.eta = double.Parse(data.trip_eta) / 60;
                 }
                 return data;
             }
