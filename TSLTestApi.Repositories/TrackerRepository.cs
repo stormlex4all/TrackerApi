@@ -29,7 +29,7 @@ namespace TSLTestApi.Repositories
                     data.destination_lon = double.Parse(data.destination_coord.Split(',')?.Last());
                     data.current_asset_position_lat = double.Parse(data.current_asset_position_coord.Split(',')?.First());
                     data.current_asset_position_lon = double.Parse(data.current_asset_position_coord.Split(',')?.Last());
-                    data.eta = double.Parse(data.trip_eta) / 60;
+                    data.eta = (int)(data.duration_to_destination / 60);
                 }
                 return data;
             }

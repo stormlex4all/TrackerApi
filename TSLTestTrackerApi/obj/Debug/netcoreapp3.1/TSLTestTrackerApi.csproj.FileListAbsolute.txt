@@ -1,6 +1,5 @@
 C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\bin\Debug\netcoreapp3.1\TSLTestTrackerApi.exe
 C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\bin\Debug\netcoreapp3.1\TSLTestTrackerApi.deps.json
 C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\bin\Debug\netcoreapp3.1\TSLTestTrackerApi.runtimeconfig.json
@@ -35,3 +34,4 @@ C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\obj\Debug\netc
 C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\obj\Debug\netcoreapp3.1\TSLTestTrackerApi.dll
 C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\obj\Debug\netcoreapp3.1\TSLTestTrackerApi.pdb
 C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\obj\Debug\netcoreapp3.1\TSLTestTrackerApi.genruntimeconfig.cache
+C:\Users\Ifeanyi\Desktop\maps\TSLTestTrackerApi\TSLTestTrackerApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TSLTestTrackerApi.styles.css
